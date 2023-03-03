@@ -96,7 +96,8 @@ in **HTTP** there are five methods that are commonly used in a **REST**-based Ar
 * **GET** : the HTTP GET method is used to **read**(or retrieve) a representation of a resource.In the safe path,GET returns a representation in XML or JSON and an HTTP response code of 200(OK).
 
 * **POST**: the POST verb is most often utilized to **create** new resource.on successful creation ,return HTTP status 201,returning  a location harder with a link to the newly created resource with the 201 HTTP status.
-> **NOTE** : **POST** is neither safe nor idempotent.
+   
+    **POST** is neither safe nor idempotent.
 * **PUT**: It is used for updating the capabilities.**PUT** can also be used to crate a resource in the case where the resource **ID** is choosen by the client instead of by the server.on  successful update,return 200(or 204 if not returning any content in the body)from a **PUT**.
 
 * **DELETE**:it is used to delete a resourse identified by a **URI**.on Successful deletion ,return HTTP status 200(OK) along with a respone body.
@@ -131,7 +132,7 @@ We will see how request and responce work for **HTTP** methods.
    DELETE:/api/students/1
 
 
-> **API** stands for Application  Programming Interface Which is a Software Intermediary that allows two application to talk to each other.An api is a software which can be used to communicate with other software or even hardwares.
+**API** stands for Application  Programming Interface Which is a Software Intermediary that allows two application to talk to each other.An api is a software which can be used to communicate with other software or even hardwares.
 
 ## What is an Endpoint
 An endpoint is a simple URL through which you can use an API (or a Web API)
