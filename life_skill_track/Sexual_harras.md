@@ -37,7 +37,7 @@ The Position and the powe given to the Supervisor the capacity to rewar, also el
 * what we eat , what we see, what our parents do ,and what our Friends do or have been doing are very important in this connection ,as such things directly or indirectly affect our thinking and in turns actions .
 
 ### if am Facing this issue :
-First i tell Harasser to stop harassing ,he did'nt stop means i tell this to my friend,Family member or co-Worker What happend to me and i meet some lawers and tell this about and file the case agains harasser.i think there is no difference between actors and us ,sexual harassment common to all.
+First i tell Harasser to stop harassing ,he did'nt stop means i tell this to my friend,Family member or co-Worker What happend to me and i meet some lawers and tell this about and file the case agains harasser.
 
 ### How to Handle Harassement :
 Knowing how to handle harassement complaints properly helps everyone involved feel safer and happier.To start ,make it easy for employees to submit complaints.offer multiple avenue through which they can report harassement.
